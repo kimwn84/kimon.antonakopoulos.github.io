@@ -10,7 +10,5 @@ main:
     url: /teaching/    
     
   - title: "CV"
-    url: https://github.com/kimwn84/kimon.antonakopoulos.github.io/tree/master/files/CV.pdf
-    
-  - title: "Guide"
-    url: /markdown/
+    url: https://github.com/kimwn84/kimon.antonakopoulos.github.io/raw/master/files/CV.pdf
+
